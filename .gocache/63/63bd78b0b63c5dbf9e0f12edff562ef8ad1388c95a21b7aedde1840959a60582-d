@@ -1,0 +1,19 @@
+# test log
+getenv GOTMPDIR
+stat C:\Users\Ben\AppData\Local\Temp\TestExecuteWritesExpectedBundle1862782964\001\2026-04-19_143000
+stat C:\Users\Ben\AppData\Local\Temp\TestExecuteWritesExpectedBundle1862782964\001
+open C:\Users\Ben\AppData\Local\Temp\TestExecuteWritesExpectedBundle1862782964\001\2026-04-19_143000\ping_local_gateway.csv
+open C:\Users\Ben\AppData\Local\Temp\TestExecuteWritesExpectedBundle1862782964\001\2026-04-19_143000\ping_internet_1.csv
+open C:\Users\Ben\AppData\Local\Temp\TestExecuteWritesExpectedBundle1862782964\001\2026-04-19_143000\ping_internet_2.csv
+open C:\Users\Ben\AppData\Local\Temp\TestExecuteWritesExpectedBundle1862782964\001\2026-04-19_143000\device_info.json
+open C:\Users\Ben\AppData\Local\Temp\TestExecuteWritesExpectedBundle1862782964\001\2026-04-19_143000\events.json
+open C:\Users\Ben\AppData\Local\Temp\TestExecuteWritesExpectedBundle1862782964\001\2026-04-19_143000\summary.json
+open C:\Users\Ben\AppData\Local\Temp\TestExecuteWritesExpectedBundle1862782964\001\2026-04-19_143000\run.json
+stat C:\Users\Ben\AppData\Local\Temp\TestExecuteWritesExpectedBundle1862782964\001\2026-04-19_143000\run.json
+stat C:\Users\Ben\AppData\Local\Temp\TestExecuteWritesExpectedBundle1862782964\001\2026-04-19_143000\summary.json
+stat C:\Users\Ben\AppData\Local\Temp\TestExecuteWritesExpectedBundle1862782964\001\2026-04-19_143000\device_info.json
+stat C:\Users\Ben\AppData\Local\Temp\TestExecuteWritesExpectedBundle1862782964\001\2026-04-19_143000\events.json
+stat C:\Users\Ben\AppData\Local\Temp\TestExecuteWritesExpectedBundle1862782964\001\2026-04-19_143000\ping_local_gateway.csv
+stat C:\Users\Ben\AppData\Local\Temp\TestExecuteWritesExpectedBundle1862782964\001\2026-04-19_143000\ping_internet_1.csv
+stat C:\Users\Ben\AppData\Local\Temp\TestExecuteWritesExpectedBundle1862782964\001\2026-04-19_143000\ping_internet_2.csv
+open C:\Users\Ben\AppData\Local\Temp

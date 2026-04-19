@@ -1,0 +1,6 @@
+# test log
+getenv GOTMPDIR
+stat C:\Users\Ben\AppData\Local\Temp\TestNewCreatesTimestampedDirectory4002836390\001\2026-04-19_143000
+stat C:\Users\Ben\AppData\Local\Temp\TestNewCreatesTimestampedDirectory4002836390\001
+stat C:\Users\Ben\AppData\Local\Temp\TestNewCreatesTimestampedDirectory4002836390\001\2026-04-19_143000
+open C:\Users\Ben\AppData\Local\Temp
